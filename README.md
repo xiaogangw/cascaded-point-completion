@@ -1,6 +1,8 @@
 ## Cascaded Refinement Network for Point Cloud Completion
 
-This is the TensorFlow implementation for the paper "Cascaded Refinement Network for Point Cloud Completion"
+This is the new repository from the original one (https://github.com/xiaogangw-zz/cascaded-point-completion), all the contents are the same.
+
+This is the TensorFlow implementation for the paper "Cascaded Refinement Network for Point Cloud Completion (CVPR 2020)"
 
 ## Getting Started
 python version: python-3.5;  cuda version: cuda-10;  TensorFlow version: tensorflow-1.13
